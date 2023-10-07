@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Brian
+ *
+ */
+module AbstractFactory {
+}
