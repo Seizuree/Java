@@ -1,7 +1,6 @@
 public class Main {
 
 	public Main() {
-		// TODO Auto-generated constructor stub
 		HandphoneC hp = new HandphoneC("kPhone");
 		ChargerC cType = new ChargerC();
 		ChargerB bType = new ChargerB();
